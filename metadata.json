@@ -1,0 +1,8 @@
+{
+  "name": "Remix CitySense-AI: Smart City Explorer",
+  "description": "Explore cities worldwide with real-time weather, interactive OpenStreetMap POIs, official public safety information, and a server-backed Gemini AI city guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
